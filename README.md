@@ -11,5 +11,5 @@ Server: Apache
 Database: MySQL
 Version Control System: Git
 Programming / Scripting: JavaScript
-Front-End: HTML, CSS, Thymeleaf
+Front-End: HTML, CSS, Thymeleaf, Bootstrap
 Integrated Development Environment: IntelliJ
